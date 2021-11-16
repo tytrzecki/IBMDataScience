@@ -1,5 +1,5 @@
 # DataScience
-IBM Data Science Couse
+IBM Data Science Course
 
 
-This is a readme.
+This repository holds the work used to achieve the IBM Professional Data Science Certificate.
